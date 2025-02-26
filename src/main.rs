@@ -1,6 +1,5 @@
-#![allow (unused)]
+//#![allow (unused)]
 use std::io;
-use rand::Rng;
 fn main() {
     let mut frstn = String::new();
     println!("input your first number");
